@@ -1,2 +1,2 @@
-# CSE572_DataAnalysis
+# AMS572_DataAnalysis
 Project files regarding this data analysis course
